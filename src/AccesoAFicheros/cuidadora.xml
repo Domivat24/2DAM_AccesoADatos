@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cuidadora>
+    <animal>
+        <nombre>ala</nombre>
+        <especie>mola</especie>
+    </animal>
+    <animal>
+        <nombre>fasfa</nombre>
+        <especie>dadad</especie>
+    </animal>
+    <animal>
+        <nombre>hola</nombre>
+        <especie>ala</especie>
+    </animal>
+    <animal>
+        <nombre>da</nombre>
+        <especie>dda</especie>
+    </animal>
+</cuidadora>

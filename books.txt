@@ -1,0 +1,33 @@
+Title: XML Developer's Guide by the author:Gambardella, Matthew. A novel released on the 2000-10-01, priced at 44.95 and from the genre of Computer. Short description:An in-depth look at creating applications
+            with XML.
+Title: Microsoft .NET: The Programming Bible by the author:O'Brien, Tim. A novel released on the 2000-12-09, priced at 36.95 and from the genre of Computer. Short description:Microsoft's .NET initiative is explored in
+            detail in this deep programmer's reference.
+Title: Creepy Crawlies by the author:Knorr, Stefan. A novel released on the 2000-12-06, priced at 4.95 and from the genre of Horror. Short description:An anthology of horror stories about roaches,
+            centipedes, scorpions  and other insects.
+Title: MSXML3: A Comprehensive Guide by the author:O'Brien, Tim. A novel released on the 2000-12-01, priced at 36.95 and from the genre of Computer. Short description:The Microsoft MSXML3 parser is covered in
+            detail, with attention to XML DOM interfaces, XSLT processing,
+            SAX and more.
+Title: Paradox Lost by the author:Kress, Peter. A novel released on the 2000-11-02, priced at 6.95 and from the genre of Science Fiction. Short description:After an inadvertant trip through a Heisenberg
+            Uncertainty Device, James Salway discovers the problems
+            of being quantum.
+Title: Visual Studio 7: A Comprehensive Guide by the author:Galos, Mike. A novel released on the 2001-04-16, priced at 49.95 and from the genre of Computer. Short description:Microsoft Visual Studio 7 is explored in depth,
+            looking at how Visual Basic, Visual C++, C#, and ASP+ are
+            integrated into a comprehensive development
+            environment.
+Title: Lover Birds by the author:Randall, Cynthia. A novel released on the 2000-09-02, priced at 4.95 and from the genre of SEXOSEXO. Short description:When Carla meets Paul at an ornithology
+            conference, tempers fly as feathers get ruffled.
+Title: Splish Splash by the author:Thurman, Paula. A novel released on the 2000-11-02, priced at 4.95 and from the genre of SEXOSEXO. Short description:A deep sea diver finds true love twenty
+            thousand leagues beneath the sea.
+Title: Oberon's Legacy by the author:Corets, Eva. A novel released on the 2001-03-10, priced at 5.95 and from the genre of Fantasy. Short description:In post-apocalypse England, the mysterious
+            agent known only as Oberon helps to create a new life
+            for the inhabitants of London. Sequel to Maeve
+            Ascendant.
+Title: The Sundered Grail by the author:Corets, Eva. A novel released on the 2001-09-10, priced at 5.95 and from the genre of Fantasy. Short description:The two daughters of Maeve, half-sisters,
+            battle one another for control of England. Sequel to
+            Oberon's Legacy.
+Title: Midnight Rain by the author:Ralls, Kim. A novel released on the 2000-12-16, priced at 5.95 and from the genre of Fantasy. Short description:A former architect battles corporate zombies,
+            an evil sorceress, and her own childhood to become queen
+            of the world.
+Title: Maeve Ascendant by the author:Corets, Eva. A novel released on the 2000-11-17, priced at 5.95 and from the genre of Fantasy. Short description:After the collapse of a nanotechnology
+            society in England, the young survivors lay the
+            foundation for a new society.
