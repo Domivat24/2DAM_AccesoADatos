@@ -21,4 +21,3 @@ public class MysqlConnection {
 		System.out.println((System.currentTimeMillis()));
 	}
 }
-//

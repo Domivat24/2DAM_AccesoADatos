@@ -15,7 +15,7 @@ public class UsoDeBaseDeDatos2 {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
             conexion = DriverManager.getConnection(
-                    "jdbc:mysql://localhost:3306/vehiculos_motorizados",
+                    "jdbc:mysql://localhost:3306/pruebas",
                     "root", "root");
         } catch (Exception e) {
             e.printStackTrace();
@@ -29,19 +29,19 @@ public class UsoDeBaseDeDatos2 {
     //la segunda hay que introducirla a mano(asi sabemos que nos da error)
     //la tercera nos saca por pantalla las columnas resultado
     public void insertar() {
-        System.out.println("Introduce sede: ");
-        String sede = teclado.nextLine();
-        System.out.println("Introduce nacionalida: ");
-        String nacion = teclado.nextLine();
+        System.out.println("Introduce nombre: ");
+        String nombre = teclado.nextLine();
+        System.out.println("Introduce apellido: ");
+        String apellido = teclado.nextLine();
 
         try {
             //Hasta que no hagas sentencia.commit() no escribe ne la base de datos
             //En el try-catch esta el rollback para proteger la base de datos
             conexion.setAutoCommit(false);
             //1º Consulta
-            sentencia = conexion.prepareStatement("INSERT INTO sede (Sede, Nacionalidad) VALUES (?, ?)");
-            sentencia.setString(1, sede);
-            sentencia.setString(2, nacion);
+            sentencia = conexion.prepareStatement("INSERT INTO conectados (Nombre, Apellido) VALUES (?, ?)");
+            sentencia.setString(1, nombre);
+            sentencia.setString(2, apellido);
             sentencia.executeUpdate();
             //2º Consulta
             System.out.println("Introduce Consulta: ");
@@ -59,7 +59,7 @@ public class UsoDeBaseDeDatos2 {
                 System.out.println("");
             }
             //3º Consulta
-            sentencia = conexion.prepareStatement("SELECT * FROM sede");
+            sentencia = conexion.prepareStatement("SELECT * FROM conectados");
             resultado = sentencia.executeQuery();
             ResultSetMetaData obtenerCs = resultado.getMetaData();
             int columnass = obtenerCs.getColumnCount();

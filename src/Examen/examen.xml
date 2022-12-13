@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xml>
+    <productos>
+        <producto>
+            <Part_number>000001</Part_number>
+            <Descripcion>pantalla</Descripcion>
+            <Color>negro</Color>
+            <Familia>monitores</Familia>
+            <Precio>100</Precio>
+        </producto>
+
+        <producto>
+            <Part_number>000002</Part_number>
+            <Descripcion>pantalla</Descripcion>
+            <Color>blanco</Color>
+            <Familia>monitores</Familia>
+            <Precio>100</Precio>
+        </producto>
+
+        <producto>
+            <Part_number>000003</Part_number>
+            <Descripcion>pantalla</Descripcion>
+            <Color>gris</Color>
+            <Familia>monitores</Familia>
+            <Precio>100</Precio>
+        </producto>
+
+        <producto>
+            <Part_number>000004</Part_number>
+            <Descripcion>torre</Descripcion>
+            <Color>negro</Color>
+            <Familia>ordenadores</Familia>
+            <Precio>300</Precio>
+        </producto>
+
+        <producto>
+            <Part_number>000005</Part_number>
+            <Descripcion>teclado</Descripcion>
+            <Color>negro</Color>
+            <Familia>teclados</Familia>
+            <Precio>100</Precio>
+        </producto>
+
+        <producto>
+            <Part_number>000006</Part_number>
+            <Descripcion>torre</Descripcion>
+            <Color>blanco</Color>
+            <Familia>ordenadores</Familia>
+            <Precio>400</Precio>
+        </producto>
+
+        <producto>
+            <Part_number>000007</Part_number>
+            <Descripcion>teclado</Descripcion>
+            <Color>gris</Color>
+            <Familia>teclados</Familia>
+            <Precio>100</Precio>
+        </producto>
+
+        <producto>
+            <Part_number>000008</Part_number>
+            <Descripcion>raton_gamming</Descripcion>
+            <Color>Otros</Color>
+            <Familia>ratones</Familia>
+            <Precio>200</Precio>
+        </producto>
+
+        <producto>
+            <Part_number>000009</Part_number>
+            <Descripcion>raton</Descripcion>
+            <Color>negro</Color>
+            <Familia>ratones</Familia>
+            <Precio>100</Precio>
+        </producto>
+
+        <producto>
+            <Part_number>000010</Part_number>
+            <Descripcion>raton</Descripcion>
+            <Color>blanco</Color>
+            <Familia>ratones</Familia>
+            <Precio>100</Precio>
+        </producto>
+
+        <producto>
+            <Part_number>000011</Part_number>
+            <Descripcion>roton_tres</Descripcion>
+            <Color>negro</Color>
+            <Familia>ratones</Familia>
+            <Precio>50</Precio>
+        </producto>
+
+    <producto><Part_number>120</Part_number><Descripcion>nuevo</Descripcion><Color>rosa</Color><Familia>monitores</Familia><Precio>100</Precio></producto></productos>
+</xml>
