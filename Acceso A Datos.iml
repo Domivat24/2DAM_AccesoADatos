@@ -10,6 +10,15 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/Drivers/mariadb-java-client-2.6.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
           <root url="jar://C:/Users/7J/Documents/NetBeansProjects/ejemploHibernate/dist/lib/mysql-connector-j-8.0.31.jar!/" />
         </CLASSES>
         <JAVADOC />
